@@ -1,5 +1,5 @@
 name: BuildBattle
 main: BuildBattle\Main
 version: "1.0.0"
-api: [1.13.0, 1.14.0, 2.0.0]
+api: [1.13.0, 1.14.0, 2.0.0, 2.1.0]
 author: "https://vk.com/varfalomey_dev"
